@@ -1,0 +1,6 @@
+name: Tablisthidden
+version: '${project.version}'
+main: ayane.tablisthidden.Tablisthidden
+api-version: 1.16
+depend:
+  - ProtocolLib

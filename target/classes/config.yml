@@ -1,0 +1,8 @@
+hidden-players:
+  - Clody_jqy
+  - player2
+  - player3
+  - player4
+ # 在这里添加你想要隐藏的玩家 务必按照StringList的格式来添加 否则无法正常读取
+  # 插件不包含任何指令
+  # Made By Clody_jqy QQ1248286484
